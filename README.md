@@ -1,21 +1,53 @@
 # HangMan-Game
 A quick and fun Hangman game made with C++, guess the month in just 3 tries!
----
-
-## How to play
-
-- Guess the letters of the month.  
-- You lose a chance for every wrong guess.  
-- Guess the month before you run out of chances!
 
 ---
 
-## How to run
+## Features
 
-1. Compile the code using a C++ compiler.  
-2. Run the program.  
-3. Start guessing!
+- Randomly picks a month name
+- 3 tries to guess correctly
+- Displays hangman art based on wrong guesses
+- Simple structure using basic C++ functions
 
 ---
 
-Feel free to try it out!
+## File Structure
+hangman-game/
+├── hangman.cpp    # C++ source file
+├── README.md      # Project details
+
+---
+
+## How to Run
+
+1. Clone or download the repository.
+2. Compile the C++ file:
+
+---
+
+## Run the game:
+
+				_________
+			          |         |
+			          O         |
+			         / \       |    You have 3 chances
+			          |         |    /
+			         /  \      |    O
+Life: 3
+XXXXXXXX
+Guess a Letter:
+
+---
+
+## Contributing
+Contributions are welcome! To contribute:
+
+1. Fork the repository.
+2. Make your changes in a separate branch.
+3. Submit a pull request with a description of your modifications.
+
+---
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
