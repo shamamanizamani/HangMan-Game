@@ -1,7 +1,15 @@
 # HangMan-Game
+---
 A quick and fun Hangman game made with C++, guess the month in just 3 tries!
 
----
+## Table of Contents
+
+- [Features](#features)
+- [File Structure](#file-structure)
+- [How to Run](#how-to-run)
+- [Sample Output](#sample-output)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Features
 
@@ -10,21 +18,15 @@ A quick and fun Hangman game made with C++, guess the month in just 3 tries!
 - Displays hangman art based on wrong guesses
 - Simple structure using basic C++ functions
 
----
-
 ## File Structure
 - hangman-game/
 - ├── hangman.cpp    # C++ source file
 - ├── README.md      # Project details
 
----
-
 ## How to Run
 
 1. Clone or download the repository.
 2. Compile the C++ file:
-
----
 
 ## Sample Output
 
@@ -38,16 +40,12 @@ A quick and fun Hangman game made with C++, guess the month in just 3 tries!
 - XXXXXXXX
 - Guess a Letter:
 
----
-
 ## Contributing
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
 2. Make your changes in a separate branch.
 3. Submit a pull request with a description of your modifications.
-
----
 
 ## License
 This project is for learning and personal use. Feel free to modify and share!
