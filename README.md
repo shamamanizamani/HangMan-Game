@@ -13,9 +13,9 @@ A quick and fun Hangman game made with C++, guess the month in just 3 tries!
 ---
 
 ## File Structure
-hangman-game/
-├── hangman.cpp    # C++ source file
-├── README.md      # Project details
+- hangman-game/
+- ├── hangman.cpp    # C++ source file
+- ├── README.md      # Project details
 
 ---
 
@@ -26,7 +26,7 @@ hangman-game/
 
 ---
 
-## Run the game:
+## Sample Output
 
 				_________
 			          |         |
@@ -34,9 +34,9 @@ hangman-game/
 			         / \       |    You have 3 chances
 			          |         |    /
 			         /  \      |    O
-Life: 3
-XXXXXXXX
-Guess a Letter:
+- Life: 3
+- XXXXXXXX
+- Guess a Letter:
 
 ---
 
@@ -50,4 +50,4 @@ Contributions are welcome! To contribute:
 ---
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is for learning and personal use. Feel free to modify and share!
